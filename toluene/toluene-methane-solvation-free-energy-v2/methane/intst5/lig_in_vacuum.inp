@@ -1,4 +1,4 @@
-nstep                     = 2000000                   # Number of steps to run        
+nstep                     = 1000000                   # Number of steps to run        
 dt                        = 0.001                     # Time-step (ps)                
 
 nstout                    = 5000                      # Writing output frequency (steps)
@@ -6,7 +6,7 @@ nstdcd                    = 500                       # Writing coordinates traj
 
 coulomb                   = PME                       # Electrostatic cut-off method  
 ewald_Tol                 = 0.0005                    # Ewald error tolerance         
-vdw                       = Force-switch              # vdW cut-off method            
+vdw                       = None                      # vdW cut-off method            
 r_on                      = 1.0                       # Switch-on distance (nm)       
 r_off                     = 1.2                       # Switch-off distance (nm)      
 
