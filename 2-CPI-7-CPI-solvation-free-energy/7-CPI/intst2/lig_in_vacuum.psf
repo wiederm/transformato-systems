@@ -4,22 +4,22 @@ PSF CHEQ EXT XPLOR
 
 
         29 !NATOM
-         1 HETA     1        UNL      C1       CG2R61  -0.204000       12.0110           
-         2 HETA     1        UNL      H1       HGR61    0.160800        1.0080           
-         3 HETA     1        UNL      C2       CG2R61  -0.183200       12.0110           
-         4 HETA     1        UNL      H2       HGR61    0.156800        1.0080           
-         5 HETA     1        UNL      C3       CG2R61  -0.164000       12.0110           
-         6 HETA     1        UNL      H3       HGR61    0.156800        1.0080           
-         7 HETA     1        UNL      C4       CG2R61  -0.089600       12.0110           
-         8 HETA     1        UNL      C5       CG2RC0   0.161600       12.0110           
-         9 HETA     1        UNL      N        NG2R51  -0.381600       14.0070           
-        10 HETA     1        UNL      H4       HGP1     0.290400        1.0080           
-        11 HETA     1        UNL      C6       CG2RC0   0.078400       12.0110           
-        12 HETA     1        UNL      C7       CG2R51  -0.208800       12.0110           
-        13 HETA     1        UNL      H5       HGR51    0.146400        1.0080           
-        14 HETA     1        UNL      C8       CG2R51  -0.096000       12.0110           
-        15 HETA     1        UNL      H6       HGR52    0.159200        1.0080           
-        16 HETA     1        UNL      C9       CG3C51  -0.069200       12.0110           
+         1 HETA     1        UNL      C1       CG2R61  -0.191250       12.0110           
+         2 HETA     1        UNL      H1       HGR61    0.150750        1.0080           
+         3 HETA     1        UNL      C2       CG2R61  -0.171750       12.0110           
+         4 HETA     1        UNL      H2       HGR61    0.147000        1.0080           
+         5 HETA     1        UNL      C3       CG2R61  -0.153750       12.0110           
+         6 HETA     1        UNL      H3       HGR61    0.147000        1.0080           
+         7 HETA     1        UNL      C4       CG2R61  -0.084000       12.0110           
+         8 HETA     1        UNL      C5       CG2RC0   0.151500       12.0110           
+         9 HETA     1        UNL      N        NG2R51  -0.357750       14.0070           
+        10 HETA     1        UNL      H4       HGP1     0.272250        1.0080           
+        11 HETA     1        UNL      C6       CG2RC0   0.073500       12.0110           
+        12 HETA     1        UNL      C7       CG2R51  -0.195750       12.0110           
+        13 HETA     1        UNL      H5       HGR51    0.137250        1.0080           
+        14 HETA     1        UNL      C8       CG2R51  -0.090000       12.0110           
+        15 HETA     1        UNL      H6       HGR52    0.149250        1.0080           
+        16 HETA     1        UNL      C9       CG3C51  -0.070250       12.0110           
         17 HETA     1        UNL      H7       HGA1     0.090000        1.0080           
         18 HETA     1        UNL      C10      CG3C52  -0.182000       12.0110           
         19 HETA     1        UNL      H8       HGA2     0.090000        1.0080           
