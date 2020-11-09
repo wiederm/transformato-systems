@@ -3,7 +3,7 @@
 system:
   ################
   structure1:
-    name: "toluene"
+    name: "2-methylfuran"
     tlc: "UNL"
     vacuum:
       dirname: "vacuum"

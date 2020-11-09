@@ -3,8 +3,8 @@
 system:
   ################
   structure1:
-    name: "toluene"
-    tlc: "UNL"
+    name: "methanol"
+    tlc: "UNK"
     vacuum:
       dirname: "vacuum"
       psf_file_name: "step3_charmm2omm"

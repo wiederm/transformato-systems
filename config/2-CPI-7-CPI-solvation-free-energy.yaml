@@ -3,7 +3,7 @@
 system:
   ################
   structure1:
-    name: "toluene"
+    name: "2-CPI"
     tlc: "UNL"
     vacuum:
       dirname: "vacuum"
@@ -21,8 +21,8 @@ system:
       intermediate-filename: "lig_in_waterbox"
 
   structure2:
-    name: "methane"
-    tlc: "LIG"
+    name: "7-CPI"
+    tlc: "UNL"
     vacuum:
       dirname: "vacuum"
       psf_file_name: "step3_charmm2omm"
@@ -37,6 +37,7 @@ system:
       rst_file_name: "step4_equilibration"
       simulation_parameter: "step5_production.inp"
       intermediate-filename: "lig_in_waterbox"
+
 
 ################
 simulation:

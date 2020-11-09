@@ -3,7 +3,7 @@
 system:
   ################
   structure1:
-    name: "toluene"
+    name: "ethane"
     tlc: "UNL"
     vacuum:
       dirname: "vacuum"
