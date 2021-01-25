@@ -1,0 +1,12 @@
+Loading parameters
+
+Initial system energy
+-42011.252163050696 kJ/mol
+
+Energy minimization: 1000 steps
+-42324.30020645834 kJ/mol
+
+MD run: 50 steps
+#"Progress (%)"	"Step"	"Time (ps)"	"Potential Energy (kJ/mole)"	"Temperature (K)"	"Speed (ns/day)"	"Time Remaining"
+2.0%	1	0.01	-42163.95720848936	26.20646143014618	0	--
+4.0%	2	0.02	4260663974.673152	8719212011124.226	336	0:00

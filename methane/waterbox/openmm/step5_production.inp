@@ -10,7 +10,7 @@ vdw         = Force-switch                      # vdW cut-off method
 r_on        = 1.0                               # Switch-on distance (nm)
 r_off       = 1.2                               # Switch-off distance (nm)
                                             
-temp        = 300                            # Temperature (K)
+temp        = 303.15                            # Temperature (K)
 fric_coeff  = 1                                 # Friction coefficient for Langevin dynamics
 
 pcouple     = yes                               # Turn on/off pressure coupling
@@ -21,4 +21,5 @@ p_freq      = 100                               # Pressure coupling frequency (s
 cons        = None                              # Constraints mehtod
                                             
 rest        = no                                # Turn on/off restraints
+mini_nstep   = 1000                              # min
 
