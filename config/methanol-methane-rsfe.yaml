@@ -48,5 +48,5 @@ simulation:
     dt: 0.001
     switch: "vfswitch"
   GPU: True
-  free-energy-type: "solvation-free-energy"
+  free-energy-type: "rsfe"
 ################
