@@ -5,12 +5,13 @@ from transformato import load_config_yaml
 ############################################
 # USER-DEFINED
 ############################################
-engine = 'openMM'
+engine = 'openMM' # or 'CHARMM'
 base = '.'
 ############################################
 ############################################
+names = ['toluene', 'ethane', 'methanol', 'neopentane', 'methane', '2-methylindole', '2-methylfuran', '2-CPI', '7-CPI']
 
-for name in ['toluene', 'ethane', 'methanol', 'neopentane', 'methane', '2-methylindole', '2-methylfuran', '2-CPI', '7-CPI']:
+for name in names:
 
     if name == 'toluene':
         conf_name = 'toluene-methane-rsfe.yaml'
@@ -38,7 +39,7 @@ for name in ['toluene', 'ethane', 'methanol', 'neopentane', 'methane', '2-methyl
         fn = mutate_neopentane_to_methane_cc
     elif name == 'methane':
         conf_name = 'ethane-methane-rsfe.yaml'
-        fn = mutate_ethane_to_methane_cc
+        fn = mutate_methane_to_methane_cc
     else:
         raise RuntimeError('Only methane, ethane, methanol, 2-methylindole, 2-methylfuran, 2-CPI, 7-CPI, toluene or neopentane are allowed.')
 
